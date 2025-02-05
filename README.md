@@ -30,5 +30,5 @@ I develop and maintain web applications, handling both front-end and back-end de
 - Built using MERN stack with Cloudinary for media storage.  
 
 ## Contact  
-- **GitHub:** [github.com/Shahid8389](https://github.com/Shahid8389)   
-- **Email:** shahid628389@gmail.com  
+- **Email:** shahid628389@gmail.com
+- **GitHub:** [github.com/Shahid8389](https://github.com/Shahid8389)
