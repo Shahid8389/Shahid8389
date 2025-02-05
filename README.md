@@ -29,6 +29,7 @@ I develop and maintain web applications, handling both front-end and back-end de
 - Admin panel for adding songs, managing albums, and monitoring content.   
 - Built using MERN stack with Cloudinary for media storage.  
 
-## Contact  
+## How to Reach Me  
 - **Email:** shahid628389@gmail.com
 - **GitHub:** [github.com/Shahid8389](https://github.com/Shahid8389)
+- **Portfolio:** [My Portfolio](https://shahid-flax.vercel.app)
