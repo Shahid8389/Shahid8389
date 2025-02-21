@@ -5,10 +5,10 @@
 I develop and maintain web applications, handling both front-end and back-end development. My work involves building efficient systems, integrating user interfaces with server logic, and managing databases to ensure smooth functionality.  
 
 ## Technologies  
-- **Languages:** JavaScript, C/C++, Python  
-- **Frontend:** HTML, CSS, React.js, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express.js, REST API  
-- **Databases:** MongoDB, Firebase  
+- **Languages:** JavaScript, C/C++ 
+- **Frontend:** React, Next.js, HTML, CSS, Tailwind CSS
+- **Backend:** Node.js, Express, RESTful APIs, JWT  
+- **Databases:** MongoDB, MySQL, Firebase  
 - **Tools:** Git, GitHub, VS Code, Postman  
 
 ## Projects  
