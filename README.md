@@ -12,6 +12,14 @@ I develop and maintain web applications, handling both front-end and back-end de
 - **Tools:** Git, GitHub, VS Code, Postman  
 
 ## Projects  
+### [DisasterResQ](https://github.com/Shahid8389/DisasterResQ)  
+- **Real-Time Disaster Reporting:** Users can submit incident reports with images, ensuring timely and accurate information for responders.
+- **Volunteer Coordination:** Enables affected individuals to connect with registered volunteers for on-ground assistance. 
+- **Financial & On-Ground Support:** Users can provide aid through Stripe for secure financial contributions or navigate to Google Maps for direct assistance. 
+- **Authentication & Security:** Implements Clerk for user authentication.
+- Uses Cloudinary for optimized image storage and retrieval.
+- Built using React, Node.js, Express, MongoDB, and Tailwind CSS for efficiency and performance.
+
 ### [ClickCart](https://github.com/Shahid8389/ClickCart)  
 - Users can browse products, add items to the cart, and complete purchases.  
 - Admins can manage products, track orders, and update inventory.  
