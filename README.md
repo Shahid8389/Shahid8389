@@ -11,7 +11,7 @@ I develop and maintain web applications, handling both front-end and back-end de
 - **Databases:** MongoDB, MySQL, Firebase  
 - **Tools:** Git, GitHub, VS Code, Postman  
 
-## Projects  
+## 💻 Development Highlights 
 ### [DisasterResQ](https://github.com/Shahid8389/DisasterResQ)  
 - **Real-Time Disaster Reporting:** Users can submit incident reports with images, ensuring timely and accurate information for responders.
 - **Volunteer Coordination:** Enables affected individuals to connect with registered volunteers for on-ground assistance. 
