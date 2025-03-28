@@ -1,6 +1,6 @@
-# Shahid
+# Hi, I'm Shahid 👋
 
-## What I Do
+## My Work & Focus
 
 I develop and maintain web applications, handling both front-end and back-end development. My work involves building efficient systems, integrating user interfaces with server logic, and managing databases to ensure smooth functionality.  
 
